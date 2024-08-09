@@ -33,4 +33,5 @@
 
 ## Pseudo Label noise
 * **Zhang, Pan, et al. "Prototypical pseudo label denoising and target structure learning for domain adaptive semantic segmentation." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2021.**
+* **Litrico, Mattia, Alessio Del Bue, and Pietro Morerio. "Guiding pseudo-labels with uncertainty estimation for source-free unsupervised domain adaptation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023.**
 
