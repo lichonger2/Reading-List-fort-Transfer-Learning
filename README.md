@@ -22,7 +22,7 @@
 * **Berman, Maxim, Amal Rannen Triki, and Matthew B. Blaschko. "The lovász-softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks." Proceedings of the IEEE conference on computer vision and pattern recognition. 2018.**
 * **Jadon, Shruti. "A survey of loss functions for semantic segmentation." 2020 IEEE conference on computational intelligence in bioinformatics and computational biology (CIBCB). IEEE, 2020.**
 
-###Robust Loss
+### Robust Loss
 * **Wang, Yisen, et al. "Symmetric cross entropy for robust learning with noisy labels." Proceedings of the IEEE/CVF international conference on computer vision. 2019.**
 
 
