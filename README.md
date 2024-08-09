@@ -27,4 +27,6 @@
 * **Wang, Yidong, et al. "Freematch: Self-adaptive thresholding for semi-supervised learning." arXiv preprint arXiv:2205.07246 (2022).**
 
 
+## Pseudo Label noise
+* **Zhang, Pan, et al. "Prototypical pseudo label denoising and target structure learning for domain adaptive semantic segmentation." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2021.**
 
