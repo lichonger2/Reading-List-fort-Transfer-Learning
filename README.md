@@ -36,3 +36,4 @@
 * **Litrico, Mattia, Alessio Del Bue, and Pietro Morerio. "Guiding pseudo-labels with uncertainty estimation for source-free unsupervised domain adaptation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023.**
 * **Lukov, Tohar, et al. "Teaching with soft label smoothing for mitigating noisy labels in facial expressions." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022.**
 * **Zheng, Zhedong, and Yi Yang. "Rectifying pseudo label learning via uncertainty estimation for domain adaptive semantic segmentation." International Journal of Computer Vision 129.4 (2021): 1106-1120.**
+* **Yao, Yao, et al. "Cls: Cross labeling supervision for semi-supervised learning." arXiv preprint arXiv:2202.08502 (2022).**
