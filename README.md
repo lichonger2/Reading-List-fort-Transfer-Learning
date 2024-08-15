@@ -41,5 +41,9 @@
 * **Li, Zhihua, and Lijun Yin. "Contactless Pulse Estimation Leveraging Pseudo Labels and Self-Supervision." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023.**
 * **UNDERSTANDING AND MITIGATING THE LABEL NOISE IN PRE-TRAINING ON DOWNSTREAM TASKS**
 
-## others
+## Others
 * **Free Lunch for Domain Adversarial Training: Environment Label Smoothing**
+
+## Source-free Domain Adaptation
+
+**Qu, Sanqing, et al. "Lead: Learning decomposition for source-free universal domain adaptation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024.**
