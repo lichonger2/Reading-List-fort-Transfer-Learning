@@ -40,3 +40,6 @@
 * **Yoon, Ilhoon, et al. "Enhancing Source-Free Domain Adaptive Object Detection with Low-confidence Pseudo Label Distillation." arXiv preprint arXiv:2407.13524 (2024).**
 * **Li, Zhihua, and Lijun Yin. "Contactless Pulse Estimation Leveraging Pseudo Labels and Self-Supervision." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023.**
 * **UNDERSTANDING AND MITIGATING THE LABEL NOISE IN PRE-TRAINING ON DOWNSTREAM TASKS**
+
+## others
+* **Free Lunch for Domain Adversarial Training: Environment Label Smoothing**
