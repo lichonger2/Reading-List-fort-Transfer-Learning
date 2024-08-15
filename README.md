@@ -38,3 +38,4 @@
 * **Zheng, Zhedong, and Yi Yang. "Rectifying pseudo label learning via uncertainty estimation for domain adaptive semantic segmentation." International Journal of Computer Vision 129.4 (2021): 1106-1120.**
 * **Yao, Yao, et al. "Cls: Cross labeling supervision for semi-supervised learning." arXiv preprint arXiv:2202.08502 (2022).**
 * **Yoon, Ilhoon, et al. "Enhancing Source-Free Domain Adaptive Object Detection with Low-confidence Pseudo Label Distillation." arXiv preprint arXiv:2407.13524 (2024).**
+* **Li, Zhihua, and Lijun Yin. "Contactless Pulse Estimation Leveraging Pseudo Labels and Self-Supervision." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023.**
