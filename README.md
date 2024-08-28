@@ -8,6 +8,9 @@
 * **UniMix: Towards Domain Adaptive and Generalizable LiDAR Semantic Segmentation in Adverse Weather**
 * **Learning to Adapt SAM for Segmenting Cross-domain Point Clouds**
 
+## Two stages
+* **Density-guided Translator Boosts Synthetic-to-Real Unsupervised Domain Adaptive Segmentation of 3D Point Clouds**
+
 ### Point Cloud Augumentation
 * **Xiao, Aoran, et al. "Polarmix: A general data augmentation technique for lidar point clouds." Advances in Neural Information Processing Systems 35 (2022): 11035-11048.**
 * **Kong, Lingdong, et al. "Lasermix for semi-supervised lidar semantic segmentation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023.**
