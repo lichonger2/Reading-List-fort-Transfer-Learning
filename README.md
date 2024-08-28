@@ -2,13 +2,13 @@
 
 ## Point Cloud Domain adapataion
 
-### Syn to Real
+### Syn to Real one stage
 * **Saltori, Cristiano, et al. "Cosmix: Compositional semantic mix for domain adaptation in 3d lidar segmentation." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022.**
 * **Xiao, Aoran, et al. "Domain Adaptive LiDAR Point Cloud Segmentation with 3D Spatial Consistency." IEEE Transactions on Multimedia (2023).**
 * **UniMix: Towards Domain Adaptive and Generalizable LiDAR Semantic Segmentation in Adverse Weather**
 * **Learning to Adapt SAM for Segmenting Cross-domain Point Clouds**
 
-## Two stages
+### Syn to Real Two stages
 * **Density-guided Translator Boosts Synthetic-to-Real Unsupervised Domain Adaptive Segmentation of 3D Point Clouds**
 
 ### Point Cloud Augumentation
