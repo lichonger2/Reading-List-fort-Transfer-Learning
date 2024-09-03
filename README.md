@@ -47,6 +47,7 @@
 * **UNDERSTANDING AND MITIGATING THE LABEL NOISE IN PRE-TRAINING ON DOWNSTREAM TASKS**
 * **Wang, Yuchao, et al. "Semi-supervised semantic segmentation using unreliable pseudo-labels." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2022.**
 * **Masked Retraining Teacher-Student Framework for Domain Adaptive Object Detection**
+* **Versatile Teacher: A Class-aware Teacher-student Framework for Cross-domain Adaptation**
 
 
 ## Others
