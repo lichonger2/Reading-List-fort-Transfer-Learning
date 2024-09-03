@@ -46,6 +46,7 @@
 * **Li, Zhihua, and Lijun Yin. "Contactless Pulse Estimation Leveraging Pseudo Labels and Self-Supervision." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023.**
 * **UNDERSTANDING AND MITIGATING THE LABEL NOISE IN PRE-TRAINING ON DOWNSTREAM TASKS**
 * **Wang, Yuchao, et al. "Semi-supervised semantic segmentation using unreliable pseudo-labels." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2022.**
+* **Masked Retraining Teacher-Student Framework for Domain Adaptive Object Detection**
 
 
 ## Others
