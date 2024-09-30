@@ -57,3 +57,6 @@
 ## Source-free Domain Adaptation
 
 **Qu, Sanqing, et al. "Lead: Learning decomposition for source-free universal domain adaptation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024.**
+
+## Novel Class Discovery
+**Novel Class Discovery for 3D Point Cloud Semantic Segmentation**
