@@ -48,6 +48,7 @@
 * **Wang, Yuchao, et al. "Semi-supervised semantic segmentation using unreliable pseudo-labels." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2022.**
 * **Masked Retraining Teacher-Student Framework for Domain Adaptive Object Detection**
 * **Versatile Teacher: A Class-aware Teacher-student Framework for Cross-domain Adaptation**
+* **Sheng, Mengmeng, et al. "Foster Adaptivity and Balance in Learning with Noisy Labels." European Conference on Computer Vision. Springer, Cham, 2025.**
 
 
 ## Others
