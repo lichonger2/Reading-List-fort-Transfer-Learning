@@ -16,6 +16,10 @@
 * **Kong, Lingdong, et al. "Lasermix for semi-supervised lidar semantic segmentation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023.**
 * **Park, Junsung, Kyungmin Kim, and Hyunjung Shim. "Rethinking Data Augmentation for Robust LiDAR Semantic Segmentation in Adverse Weather." arXiv preprint arXiv:2407.02286 (2024)**.
 
+## Domain Generalization
+* **Kim, Hyeonseong, et al. "Single domain generalization for lidar semantic segmentation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023.**
+* **Sanchez, Jules, Jean-Emmanuel Deschaud, and François Goulette. "Domain generalization of 3d semantic segmentation in autonomous driving." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023.**
+
 
 ## Loss Function
 
