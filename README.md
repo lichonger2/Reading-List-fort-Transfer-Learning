@@ -63,6 +63,7 @@
 
 * **Qu, Sanqing, et al. "Lead: Learning decomposition for source-free universal domain adaptation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024.**
 * **Enhancing Source-Free Domain Adaptive Object Detection with Low-confidence Pseudo Label Distillation**
+* **Understanding and Improving Source-free Domain Adaptation from a Theoretical Perspective**
 
 ## Novel Class Discovery
 * **Novel Class Discovery for 3D Point Cloud Semantic Segmentation**
