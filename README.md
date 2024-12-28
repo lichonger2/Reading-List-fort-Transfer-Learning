@@ -38,6 +38,7 @@
 ## Match
 * **Chen, Hao, et al. "Softmatch: Addressing the quantity-quality trade-off in semi-supervised learning." arXiv preprint arXiv:2301.10921 (2023).**
 * **Wang, Yidong, et al. "Freematch: Self-adaptive thresholding for semi-supervised learning." arXiv preprint arXiv:2205.07246 (2022).**
+* **RegMixMatch: Optimizing Mixup Utilization in Semi-Supervised Learning**
 
 
 ## Pseudo Label
