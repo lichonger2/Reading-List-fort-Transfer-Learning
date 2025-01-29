@@ -66,6 +66,7 @@
 * **Enhancing Source-Free Domain Adaptive Object Detection with Low-confidence Pseudo Label Distillation**
 * **Understanding and Improving Source-free Domain Adaptation from a Theoretical Perspective**
 * **Saltori, Cristiano, et al. "Sf-uda 3d: Source-free unsupervised domain adaptation for lidar-based 3d object detection." 2020 International Conference on 3D Vision (3DV). IEEE, 2020.**
+* **Towards better stability and adaptability: Improve online self-training for model adaptation in semantic segmentation**---need read
 
 ## Novel Class Discovery
 * **Novel Class Discovery for 3D Point Cloud Semantic Segmentation**
