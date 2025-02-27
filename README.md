@@ -72,3 +72,4 @@
 ## Novel Class Discovery
 * **Novel Class Discovery for 3D Point Cloud Semantic Segmentation**
 * **Open-World Semantic Segmentation Including Class Similarity**
+* **Novel Class Discovery for Ultra-Fine-Grained Visual Categorization**
